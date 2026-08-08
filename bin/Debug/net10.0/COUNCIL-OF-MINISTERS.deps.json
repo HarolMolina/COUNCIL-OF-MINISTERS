@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "COUNCIL-OF-MINISTERS/1.0.0": {
+        "runtime": {
+          "COUNCIL-OF-MINISTERS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COUNCIL-OF-MINISTERS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

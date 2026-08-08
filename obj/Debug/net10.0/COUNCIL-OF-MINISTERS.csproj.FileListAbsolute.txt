@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\bin\Debug\net10.0\COUNCIL-OF-MINISTERS.exe
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\bin\Debug\net10.0\COUNCIL-OF-MINISTERS.deps.json
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\bin\Debug\net10.0\COUNCIL-OF-MINISTERS.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\bin\Debug\net10.0\COUNCIL-OF-MINISTERS.dll
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\bin\Debug\net10.0\COUNCIL-OF-MINISTERS.pdb
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.sourcelink.json
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.dll
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\refint\COUNCIL-OF-MINISTERS.dll
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.pdb
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\COUNCIL-OF-MINISTERS.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub Desktop\COUNCIL-OF-MINISTERS\obj\Debug\net10.0\ref\COUNCIL-OF-MINISTERS.dll
