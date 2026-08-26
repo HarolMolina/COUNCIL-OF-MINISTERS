@@ -1,5 +1,7 @@
 ﻿using ConsejoIA.Providers;
 
+const string programExit = "exit";
+
 Console.WriteLine();
 Console.WriteLine("====================================");
 Console.WriteLine("=       COUNCIL OF MINISTERS       =");
@@ -12,7 +14,7 @@ IAgentProvider provider = new MockAgentProvider();
 while (true)
 {
     string userQuestion = Console.ReadLine() ?? "";
-    if (userQuestion.ToLower() == "exit")
+    if (userQuestion.ToLower() == programExit)
     {
         break;
     }
