@@ -7,7 +7,7 @@ Console.WriteLine("====================================");
 Console.WriteLine("=       COUNCIL OF MINISTERS       =");
 Console.WriteLine("====================================");
 
-IAgentProvider provider = new MockAgentProvider();
+IAgentProvider provider = new PesimistaProvider();
 
 while (true)
 {

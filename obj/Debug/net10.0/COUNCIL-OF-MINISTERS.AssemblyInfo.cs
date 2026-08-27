@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COUNCIL-OF-MINISTERS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d14907e478a130b78b74b0e43138a8d0865463")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c573666d4aed11f29b17a60107215f3a7bcc7ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("COUNCIL-OF-MINISTERS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COUNCIL-OF-MINISTERS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

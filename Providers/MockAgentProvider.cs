@@ -1,5 +1,7 @@
 namespace ConsejoIA.Providers;
 
+// codigo para generar una respuesta automatica simulando una ia
+
 public class MockAgentProvider : IAgentProvider
 {
     public async Task<string> GetResponseAsync(string prompt)
