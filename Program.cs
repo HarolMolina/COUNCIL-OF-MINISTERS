@@ -6,13 +6,13 @@ Console.WriteLine();
 Console.WriteLine("====================================");
 Console.WriteLine("=       COUNCIL OF MINISTERS       =");
 Console.WriteLine("====================================");
-Console.WriteLine();
-Console.WriteLine("Write down the decision you want to ask about. (or 'exit' for finish)");
 
 IAgentProvider provider = new MockAgentProvider();
 
 while (true)
 {
+    Console.WriteLine("Write down the decision you want to ask about. (or 'exit' for finish)");
+
     string userQuestion = Console.ReadLine() ?? "";
     if (userQuestion.ToLower() == programExit)
     {
